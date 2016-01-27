@@ -1,0 +1,1 @@
+un texte pour new_file.txt
